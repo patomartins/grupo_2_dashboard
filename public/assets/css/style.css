@@ -1,0 +1,26 @@
+.color-card {
+    border-left: .25rem solid #10A3EB !important;
+    border-left-width: 0.25rem !important;
+    border-left-style: solid !important;
+    border-left-color: #10A3EB !important
+}
+
+.card-products {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+
+.card-products p {
+    padding: 10px;
+    margin: 0;
+}
+
+.navbar {
+    list-style-type: none;
+}
+
+.navbar li {
+    padding-right:10px ;
+    padding-top:10px ;
+}
